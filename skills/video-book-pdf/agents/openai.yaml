@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Book to PDF"
+  short_description: "Recover ordered book pages and verify compact PDFs"
+  default_prompt: "Use $video-book-pdf to recover the complete pages from my recording, compare lossless and compact PDFs, and verify readability."
